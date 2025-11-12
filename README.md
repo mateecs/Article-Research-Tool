@@ -1,5 +1,5 @@
 # Article-Research-Tool
-Article and Documents Reasearch tool based on llm for quick information retrival.
+Article and Documents Research tool based on llm for quick information retrieval.
 
 ## Features:
 - PDF process file for quick Information Extraction in the shape of Questions and Answers.
